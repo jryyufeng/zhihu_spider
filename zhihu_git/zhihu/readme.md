@@ -10,4 +10,4 @@
 > -SilmilarityDegree.py为文本比对模块（未加入主代码）
 > - start_crawl.py为入口模块
 > - textprocess.py为主要的文本分析集合
->> **Tip:** 其中的几个jpg文件为词云背景图片可根据需要替换，png文件为数据格式实例，txt为停用词表及关键词文件。
+>> **Tip:** 其中的几个jpg文件为词云背景图片可根据需要替换，png文件为数据格式实例，txt为停用词表及关键词文件，idea及__init__.py为django框架下的文件。
